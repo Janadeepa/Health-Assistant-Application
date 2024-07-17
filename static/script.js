@@ -1,1 +1,1 @@
-console.log("Hello from script.js!");
+# I am not use js
