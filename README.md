@@ -56,8 +56,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📞
 
-- Your Name - [@your_twitter](https://twitter.com/yuthmika12375)
-- Project Link: [https://github.com/your_username/health_assistant](https://github.com/Janadeepa/health-assistant-application.git)
+- Your Name - [@My_twitter](https://twitter.com/yuthmika12375)
+- Project Link: [@Project link](https://github.com/Janadeepa/health-assistant-application.git)
 
 ## Acknowledgements 🙏
 
