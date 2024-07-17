@@ -6,3 +6,45 @@ body {
 h1 {
   color: #00698f;
 }
+
+.health-monitoring {
+  background-color: #c6f7d0;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.recommendations {
+  background-color: #f7d2c4;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.alerts {
+  background-color: #ffe6e6;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.mental-health {
+  background-color: #c9f7f5;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.nutrition {
+  background-color: #f2c2c7;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.fitness {
+  background-color: #87ceeb;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.records {
+  background-color: #d3f7f5;
+  padding: 20px;
+  border-radius: 10px;
+}
